@@ -6,9 +6,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rabbiatul rafi'ah salamah" target="blank"><img align="center" 
-alt="rabbiatul rafi'ah salamah" height="30" width="40" /></a>
-</p
+<a href="https://linkedin.com/in/rabbiatul rafi'ah salamah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rabbiatul rafi'ah salamah" height="30" width="40" /></a>
+</p>
 
 <!--
 **fifirabbiatul/fifirabbiatul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
