@@ -1,4 +1,14 @@
-## Hi there 👋
+
+<h1 align="center">Hi there 👋, I'm Rabbiatul Rafi'ah Salamah</h1>
+<h3 align="center">A passionate Data & IT professional from Indonesia (IT Support, Data Analyst, Data Engineer, System Analyst, and Business Analyst)</h3>
+
+- 📫 How to reach me **fifirabbiatul04@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rabbiatul rafi'ah salamah" target="blank"><img align="center" 
+alt="rabbiatul rafi'ah salamah" height="30" width="40" /></a>
+</p
 
 <!--
 **fifirabbiatul/fifirabbiatul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
